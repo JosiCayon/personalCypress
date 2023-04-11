@@ -1,0 +1,8 @@
+{
+    "USER":{
+        "QA":{
+            "user_name": "test",
+            "password": "interqc"
+        }
+    }
+}
